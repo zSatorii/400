@@ -1,0 +1,1 @@
+Johan = [Castro**2 for Castro in range(10)]
